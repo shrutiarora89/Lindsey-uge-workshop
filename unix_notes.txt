@@ -1,0 +1,321 @@
+pwd
+history | less
+history
+ls /
+ls
+cd ../Downloads/
+..
+ls -l
+cd Projects/
+cd
+ls -i
+man ls
+ls -alt
+ls -a
+ls -rlt
+ls -rt
+ls -r
+ls -t
+ls-t
+cd /
+cd Downloads/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'BLUEHARP2@GMAIL.COM'
+git config --global user.name 'LINDSEY BOGGIO'
+git config -- global user.name 'LINDSEY BOGGIO'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR 
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew istall fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+git push origin master
+git commit -m"TopPotHW7.css"
+git add TopPotHW7.css
+git commit -m "TopPotHW7"
+git add TopPotHW7.html
+cd TopPot
+cd Projects
+git commit -m"TopPotHW6.css"
+git add TopPotHW6.css
+git commit -m"TopPotHW6"
+git add TopPotHW6.html
+slbm 
+sbl
+cd javascript-and-jquery-feb-2015
+javascript-and-jquery-feb-2015
+Projects
+cd projects
+cd Lindsey
+git commit -m "Top Pot HW5 css"
+git add TopPotHW5.css
+get push origin master
+push origin master
+git commit -m "Top Pot HW5 html"
+git add TopPotHW5.html
+subl .
+cd c07
+c07
+cd co7
+cd javascript-and-jquery-feb-2015/
+git commit -m "HW 4 Final"
+git commit-tree
+git commit-a hw4 final
+git add TopPotHW4.html
+git push TopPot master
+git push orign master
+git commit
+git --help
+git commit-m "HW4"
+git add TopPot HW 4.html
+git commit -m "final file for H3"
+git status
+git add TopPot.html
+cd 
+git commit -m "basic html file structure "
+git add TopPot.html 
+subl TopPot.html 
+touch TopPot.html
+git clone https://github.com/blueharp2/TopPot.git
+cd ..
+subl guessing_game3.html 
+which subl
+subl
+cd ac80b2342cf1c6a6640d/
+git clone https://gist.github.com/ac80b2342cf1c6a6640d.git
+cd test
+mkdir test
+mkdir
+subl hello.html
+cd IOExample
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/
+mkdir IOExample
+mkdir Projects
+subl.hello.html
+ls-l~
+man man
+ls -rt
+history> moving_around.txt
+pwd
+history | less
+history
+ls /
+ls
+cd ../Downloads/
+..
+ls -l
+cd Projects/
+cd
+ls -i
+man ls
+ls -alt
+ls -a
+ls -rlt
+ls -r
+ls -t
+ls-t
+cd /
+cd Downloads/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'BLUEHARP2@GMAIL.COM'
+git config --global user.name 'LINDSEY BOGGIO'
+git config -- global user.name 'LINDSEY BOGGIO'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR 
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew istall fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+git push origin master
+git commit -m"TopPotHW7.css"
+git add TopPotHW7.css
+git commit -m "TopPotHW7"
+git add TopPotHW7.html
+cd TopPot
+cd Projects
+git commit -m"TopPotHW6.css"
+git add TopPotHW6.css
+git commit -m"TopPotHW6"
+git add TopPotHW6.html
+slbm 
+sbl
+cd javascript-and-jquery-feb-2015
+javascript-and-jquery-feb-2015
+Projects
+cd projects
+cd Lindsey
+git commit -m "Top Pot HW5 css"
+git add TopPotHW5.css
+get push origin master
+push origin master
+git commit -m "Top Pot HW5 html"
+git add TopPotHW5.html
+subl .
+cd c07
+c07
+cd co7
+cd javascript-and-jquery-feb-2015/
+git commit -m "HW 4 Final"
+git commit-tree
+git commit-a hw4 final
+git add TopPotHW4.html
+git push TopPot master
+git push orign master
+git commit
+git --help
+git commit-m "HW4"
+git add TopPot HW 4.html
+git commit -m "final file for H3"
+git status
+git add TopPot.html
+cd 
+git commit -m "basic html file structure "
+git add TopPot.html 
+subl TopPot.html 
+touch TopPot.html
+git clone https://github.com/blueharp2/TopPot.git
+cd ..
+subl guessing_game3.html 
+which subl
+subl
+cd ac80b2342cf1c6a6640d/
+git clone https://gist.github.com/ac80b2342cf1c6a6640d.git
+cd test
+mkdir test
+mkdir
+subl hello.html
+cd IOExample
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/
+mkdir IOExample
+mkdir Projects
+subl.hello.html
+ls-l~
+man man
+history >> moving_around.txt 
+ls -rt
+history> moving_around.txt
+pwd
+history | less
+history
+ls /
+ls
+cd ../Downloads/
+..
+ls -l
+cd Projects/
+cd
+ls -i
+man ls
+ls -alt
+ls -a
+ls -rlt
+ls -r
+ls -t
+ls-t
+cd /
+cd Downloads/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'BLUEHARP2@GMAIL.COM'
+git config --global user.name 'LINDSEY BOGGIO'
+git config -- global user.name 'LINDSEY BOGGIO'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR 
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew istall fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+git push origin master
+git commit -m"TopPotHW7.css"
+git add TopPotHW7.css
+git commit -m "TopPotHW7"
+git add TopPotHW7.html
+cd TopPot
+cd Projects
+git commit -m"TopPotHW6.css"
+git add TopPotHW6.css
+git commit -m"TopPotHW6"
+git add TopPotHW6.html
+slbm 
+sbl
+cd javascript-and-jquery-feb-2015
+javascript-and-jquery-feb-2015
+Projects
+cd projects
+cd Lindsey
+git commit -m "Top Pot HW5 css"
+git add TopPotHW5.css
+get push origin master
+push origin master
+git commit -m "Top Pot HW5 html"
+git add TopPotHW5.html
+subl .
+cd c07
+c07
+cd co7
+cd javascript-and-jquery-feb-2015/
+git commit -m "HW 4 Final"
+git commit-tree
+git commit-a hw4 final
+git add TopPotHW4.html
+git push TopPot master
+git push orign master
+git commit
+git --help
+git commit-m "HW4"
+git add TopPot HW 4.html
+git commit -m "final file for H3"
+git status
+git add TopPot.html
+cd 
+git commit -m "basic html file structure "
+git add TopPot.html 
+subl TopPot.html 
+touch TopPot.html
+git clone https://github.com/blueharp2/TopPot.git
+cd ..
+subl guessing_game3.html 
+which subl
+subl
+cd ac80b2342cf1c6a6640d/
+git clone https://gist.github.com/ac80b2342cf1c6a6640d.git
+cd test
+mkdir test
+mkdir
+subl hello.html
+cd IOExample
+sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/
+mkdir IOExample
+mkdir Projects
+subl.hello.html
+ls-l~
+man man
